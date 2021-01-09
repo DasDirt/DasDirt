@@ -11,16 +11,16 @@
 <p>- 💬  You can reach me by email <a href="mailto:mail@dasdirt.de"><strong>mail@dasdirt.de</strong></a> or by <a href="https://discord.gg/fTPaSw3Cfy"><strong>Discord</strong></a></p>
 <p>- 🟢 I can do that already:</p>
 <p align="center">
-   <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70"/>
-   <img src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"/>
-   <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="Html" width="70" height="70"/>
-   <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="70" height="70"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"/>
 </p>
 <p>- 💡  I'm currently learning: </p>
 <p align="center">
-	<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="C" width="70" height="70"/>
-	<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70"/>
-	<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
 </p>
 <hr>
 <p><strong>Here are some stats:</strong></p>
